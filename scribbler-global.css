@@ -300,6 +300,7 @@ table td:first-child {
   background-color: var(--primary-color);
   padding: 2rem;
   color: white;
+  margin-top: 7%;
 }
 
 @keyframes fadeUp {
